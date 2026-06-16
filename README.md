@@ -24,21 +24,14 @@ The processor supports arithmetic, logical, memory, and control-flow instruction
 
 ## Processor Architecture
 
-Instruction Memory
-↓
-Program Counter
-↓
-Decoder
-↓
-Control Unit
-↓
-Register File
-↓
-ALU
-↓
-Write Back
-↓
-Data Memory
+Instruction Memory,
+Program Counter,
+Decoder,
+Control Unit,
+Register File,
+ALU,
+Write Back,
+Data Memory,
 
 
 ## Instruction Format
